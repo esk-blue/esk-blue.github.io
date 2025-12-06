@@ -49,24 +49,15 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "서울사이버대학교",
+      degree: "인공지능학과",
+      dateRange: "2024 - 2025",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "머신러닝 모델링, 딥러닝 이론 및 실습과정 이수",
+        "데이터 과학 및 분석 방법론 숙련",
+        "최신 AI 트렌드 및 응용 기술 학습",
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    
   ],
 };
