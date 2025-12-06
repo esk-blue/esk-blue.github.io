@@ -17,21 +17,21 @@ export const siteConfig = {
       description:
         "슈퍼 마리오 게임 환경을 MDP로 모델링하고, 보상 기반 학습을 통해 스테이지를 가장 효율적으로 완주하는 최적 정책(Optimal Policy)을 찾는 에이전트 개발",
      
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Python", "Gym", "DQN"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "GPT기반의 자동 응답 카페 알바생",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "GPT 모델을 활용하여 카페 환경에서 발생할 수 있는 고객 문의(메뉴 추천, 가격 문의, 위치 안내, 이벤트 문의 등)에 대해 정확하고 친절하게 자동 응답하는 시스템 구축.",
+      
+      skills: ["Python", "Open AI API", "Prompt Engineering"],
     },
     {
-      name: "ExtensionKit",
+      name: "통신사 고객 이탈 예측 프로젝트",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "통신 서비스 가입 고객의 이용 패턴, 청구 정보, 인구 통계학적 정보 등을 분석하여 특정 기간 내에 서비스를 해지할 가능성이 높은 고객을 예측",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["ML Modeling", "Python", "Feature Engineering"],
     },
   ],
   experience: [
