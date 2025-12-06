@@ -9,8 +9,8 @@ export const siteConfig = {
     github: "https://github.com/esk-blue",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "저는 서울사이버대학교에서 인공지능을 전공하고 있으며, 회사에서 냉난방설비 유지보수 엔지니어로 근무하고 있습니다. 실제 산업 시스템의 운영과 문제 진단을 경험했으며, 인공지능 기술을 활용해 현장 문제 해결 능력을 극대화하고 실질적인 혁신을 이루는 것이 목표입니다 ",
+  skills: ["Python", "AWS"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
