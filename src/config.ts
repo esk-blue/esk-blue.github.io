@@ -30,39 +30,39 @@ export const siteConfig = {
       name: "통신사 고객 이탈 예측 프로젝트",
       description:
         "통신 서비스 가입 고객의 이용 패턴, 청구 정보, 인구 통계학적 정보 등을 분석하여 특정 기간 내에 서비스를 해지할 가능성이 높은 고객을 예측",
-      link: "https://extensionkit.io/?ref=devportfolio",
+     
       skills: ["ML Modeling", "Python", "Feature Engineering"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Engineering Company",
+      title: "Facility Engineer",
+      dateRange: "6월 2018 - 현재",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "건축설비기사, 전기기사 등 다양한 자격증을 취득하여 공학적 지식 보유",
+        "열역학, 냉동사이클, 배관시스템 흐름에 대한 설비작동 원리 이해",
+        "전문 측정장비를 사용한 고장 진단, 설비 유지보수 등 문제 해결 능력 보유 ",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+      #company: "Startup Inc",
+      #title: "Full Stack Developer",
+      #dateRange: "Jun 2020 - Dec 2021",
+      #bullets: [
+        #"Built and launched MVP product from scratch using React and Node.js",
+        #"Implemented CI/CD pipeline reducing deployment time by 60%",
+        #"Collaborated with product team to define technical requirements",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+      #company: "Digital Agency",
+      #title: "Frontend Developer",
+      #dateRange: "Aug 2018 - May 2020",
+      #bullets: [
+        #"Developed responsive web applications for 20+ clients",
+        #"Improved site performance scores by 35% on average",
+        #"Introduced modern JavaScript frameworks to legacy codebases",
       ],
     },
   ],
