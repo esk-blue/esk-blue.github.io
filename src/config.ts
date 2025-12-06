@@ -45,26 +45,7 @@ export const siteConfig = {
         "전문 측정장비를 사용한 고장 진단, 설비 유지보수 등 문제 해결 능력 보유 ",
       ],
     },
-    {
-      #company: "Startup Inc",
-      #title: "Full Stack Developer",
-      #dateRange: "Jun 2020 - Dec 2021",
-      #bullets: [
-        #"Built and launched MVP product from scratch using React and Node.js",
-        #"Implemented CI/CD pipeline reducing deployment time by 60%",
-        #"Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      #company: "Digital Agency",
-      #title: "Frontend Developer",
-      #dateRange: "Aug 2018 - May 2020",
-      #bullets: [
-        #"Developed responsive web applications for 20+ clients",
-        #"Improved site performance scores by 35% on average",
-        #"Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+  
   ],
   education: [
     {
