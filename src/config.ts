@@ -10,13 +10,13 @@ export const siteConfig = {
   },
   aboutMe:
     "저는 서울사이버대학교에서 인공지능을 전공하고 있으며, 회사에서 냉난방설비 유지보수 엔지니어로 근무하고 있습니다. 실제 산업 시스템의 운영과 문제 진단을 경험했으며, 인공지능 기술을 활용해 현장 문제 해결 능력을 극대화하고 실질적인 혁신을 이루는 것이 목표입니다 ",
-  skills: ["Python", "AWS"],
+  skills: ["Python", "AWS", "SQLD"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "강화학습을 이용한 슈퍼마리오",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+        "슈퍼 마리오 게임 환경을 MDP로 모델링하고, 보상 기반 학습을 통해 스테이지를 가장 효율적으로 완주하는 최적 정책(Optimal Policy)을 찾는 에이전트 개발",
+     
       skills: ["React", "Node.js", "AWS"],
     },
     {
